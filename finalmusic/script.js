@@ -1,9 +1,10 @@
+/*global songs*/
 var divs = document.getElementsByTagName('div');
 var boxes = document.getElementsByClassName('box');
 var choices = document.getElementById('choices');
 var picture = document.getElementById('picture');
 var player = document.getElementById('player');
-var songTitle = document.getElementById('songTitle')
+var songTitle = document.getElementById('songTitle');
 
 var app = divs[0];
 var controls = divs[1];
@@ -52,7 +53,7 @@ function flipFlop(evtObj){
       if(boxes[i].classList.contains("horizontal")){
         boxes[i].classList.remove("horizontal");
       }
-      boxes[i].classList.add("vertical")
+      boxes[i].classList.add("vertical");
     }
   }
   function makeHorizontal(){

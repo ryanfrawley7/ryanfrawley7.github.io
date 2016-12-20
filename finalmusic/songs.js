@@ -9,6 +9,6 @@ var songs = {
 	},
 	'3':{
 		song:"Macklemore - Wednesday Morning",
-		picture: "Macklemore"
+		picture: "macklemore"
 	}
 };
