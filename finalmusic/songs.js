@@ -1,19 +1,14 @@
-/*
-	Each song is an .mp3
-	Each picture is a .png
-*/
 var songs = {
 	'1':{
-		song:"DJ Khaled - Do You Mind",
-		picture: "khaledMind"
+		song:"Cam Meekins - Rollin",
+		picture: "camMeekins"
 	},
 	'2':{
-		song:"Elton John - Mona Lisas And Mad Hatters",
-		picture: "EltonMona"
+		song:"Dave Matthews - Seek Up",
+		picture: "daveMatthews"
 	},
 	'3':{
-		song:"Journey - Faithfully",
-		picture: "JourneyFaith"
+		song:"Macklemore - Wednesday Morning",
+		picture: "Macklemore"
 	}
 };
-

@@ -29,9 +29,10 @@
   width: 47%;
 }
 #picture{
-	background: url(pictures/EltonMona.png) no-repeat center;
+	background: url(pictures/camMeekins.png) no-repeat center;
 	background-size: 100% 100%;
 	border: none;
+	color: transparent;
 }
 #controls{
 	position: relative;
@@ -50,7 +51,3 @@
 #player{
 	width: 95%;
 }
-
-
-
-
